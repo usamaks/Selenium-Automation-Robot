@@ -24,13 +24,13 @@ This repository contains all the basic Robot Framework Automation Test Cases to 
  1. Clone or download the repository to your local machine.
  2. Navigate to the project directory and open a command prompt or terminal window.
  3. To run the test suite, enter the following command:
-    ```
+    
 ##    robot tests
-    ```
+    
  4. To run a specific test case, enter the following command:
     ```
     robot -t "Test Case Name" tests
-    ```
+    
 
 ## Writing Tests
  1. Create a new test case file in the `tests` directory.
